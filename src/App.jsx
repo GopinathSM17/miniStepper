@@ -1,6 +1,6 @@
 import react from 'react'
 import { useState } from 'react'
-import Header from './components/header'
+import Header from './components/Header'
 import Stepper from './components/Stepper'
 import StepperDetails from './components/StepperDetails'
 import CurrentStep from './components/CurrentStep'
